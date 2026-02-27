@@ -21,8 +21,8 @@
 
 | Name | GitHub | Role |
 |------|--------|------|
-| [Your Name] | [@AbdulWahab740]([#](https://github.com/AbdulWahab740)) | Team Lead, ML Engineer |
-| [Member 2] | [@aysh34](https://github.com/aysh34) | Machine learning engineer |
+| [Abdul Wahab] | [@AbdulWahab740](https://github.com/AbdulWahab740) | RAG + Elastic Agent Integration  |
+| [Ayesha Saleem] | [@aysh34](https://github.com/aysh34) | Machine Learning Engineer |
 
 ---
 
