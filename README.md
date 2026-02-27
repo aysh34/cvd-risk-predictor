@@ -1,7 +1,7 @@
+<div align="center">
+
 # Cardiovascular Risk Assessment Agent
 ### 🏆 Elasticsearch Agent Builder Hackathon 2026
-
-<div align="center">
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8.0+-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Agent Builder](https://img.shields.io/badge/Agent_Builder-Enabled-00BFB3?style=for-the-badge)
