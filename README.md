@@ -13,7 +13,7 @@
 </br>
 
 [![Streamlit](https://img.shields.io/badge/Demo-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cvd-risk-predictor-er8e6xwnwwdzuyughj45dl.streamlit.app/)
-[![Devpost](https://img.shields.io/badge/Hackathon-Devpost-003E54?style=for-the-badge)](https://elasticsearch.devpost.com/)
+[![Devpost](https://img.shields.io/badge/Hackathon-Devpost-003E54?style=for-the-badge)](https://devpost.com/software/cardiovascular-disease-risk-assessment?ref_content=my-projects-tab&ref_feature=my_projects)
 
 
 </div>
