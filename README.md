@@ -9,6 +9,9 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-ML_Model-FF6600?style=for-the-badge)](https://xgboost.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-Research_Only-red?style=for-the-badge)](#license)
+
+</br>
+
 [![Streamlit](https://img.shields.io/badge/Demo-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cvd-risk-predictor-er8e6xwnwwdzuyughj45dl.streamlit.app/)
 [![Devpost](https://img.shields.io/badge/Hackathon-Devpost-003E54?style=for-the-badge)](https://elasticsearch.devpost.com/)
 
